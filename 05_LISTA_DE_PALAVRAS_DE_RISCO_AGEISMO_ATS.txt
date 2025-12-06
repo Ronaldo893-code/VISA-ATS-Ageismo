@@ -1,0 +1,63 @@
+# Palavras e expressões que reduzem compatibilidade ATS por sinalizar senioridade, antiguidade ou baixa atualização
+
+## 1. Verbos clássicos (marcadores de senioridade)
+coordenei
+gerenciei
+supervisionei
+conduzi
+administrei
+liderei amplas equipes
+fui responsável por
+gestão completa de
+
+## 2. Expressões que levantam alerta de idade
+vasta experiência
+amplo domínio
+trajetória consolidada
+longa carreira
+experiência ampla em
+carreira sólida
+mais de 20 anos de experiência
+
+## 3. Indicadores de antiguidade tecnológica
+sistemas legados
+rotinas tradicionais
+processos manuais
+metodologias clássicas
+experiência em plataformas antigas
+conhecimento tradicional de
+
+## 4. Palavras associadas a rigidez profissional
+experiência comprovada em décadas
+perfil altamente experiente
+profissional maduro
+postura consolidada
+grande bagagem profissional
+
+## 5. Termos que o ATS interpreta como "perfil caro"
+liderança robusta
+responsável por grandes operações
+experiência executiva
+coordenação estratégica prolongada
+gestão completa de áreas
+
+## 6. Marcadores de desatualização
+formação antiga
+experiência antiga
+uso de tecnologias antigas
+processos clássicos
+procedimentos tradicionais
+
+## 7. Expressões que reduzem score por sugerir senioridade alta
+especialista sênior há muitos anos
+carreira extensa
+experiência de décadas
+amplo conhecimento adquirido ao longo do tempo
+
+# Observação VISA:
+O ATS não penaliza idade direta, mas penaliza padrões linguísticos que sugerem:
+- menor adaptação digital
+- maior custo salarial
+- menor velocidade de aprendizado
+- menor flexibilidade de contexto
+- senioridade superior ao nível da vaga
